@@ -23,6 +23,19 @@ public class omegaUp {
      
      */
     public static void main(String[] args) {
+        
+        //Suma simple 
+            
+        
+        /*int numero;
+        Scanner entrada = new Scanner(System.in);  
+        System.out.print("Ingrese un numero: ");
+        
+        numero = entrada.nextInt();
+        System.out.println("La suma del valor mas 1 es = "+ (numero + 1));
+        */
+        
+        
        //Variables tambien se podrian definir con Scanner para ingresar numeros.
         Scanner entrada = new Scanner(System.in);
         
