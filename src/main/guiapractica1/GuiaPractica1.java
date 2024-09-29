@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.guiapractica1;
+package guiapractica1;
 
 import java.util.Scanner;
 
